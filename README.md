@@ -53,4 +53,8 @@ Untuk bagian c, mean dan var didapat dari hasil generate nilai random dari fungs
 ### Penjelasan
 Untuk bagian a, plotting dibuat dari fungsi plot dari 100 nilai random yang digenerate oleh fungsi rnorm.\
 Hasil Plot:\
+![Hasil Plot](Gambar/Rplot.png)\
+Untuk soal b, dibuat histogram dari 100 nilai random yang digenerate oleh fungsi rnorm. untuk a dan b, digunakan set.seed() agar nilai konsisten\
+Histogram:
+![Histogram Soal 6](Gambar/5025201176_Ferdinand Putra Gumilang Silalahi_Probstat_B_DNHistogram.png)
 
