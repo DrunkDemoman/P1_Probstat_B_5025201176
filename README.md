@@ -28,4 +28,9 @@ Untuk bagian d, rataan dan variansi diambil dari fungsi mean dan var dari 365 da
 
 ## Soal 4
 ### Screenshot Run
+![Hasil Soal 4](Gambar/ssSoal3.png)
 ### Penjelasan
+Untuk bagian a, digunakan fungsi dchisq dengan parameter yang dibutuhkan\
+Untuk bagian b, histogram dibuat dengan fungsi hist dari kumpulan data random yang dibuat oleh fungsi rchisq. set.seed() digunakan agar nilai konsisten\
+Untuk bagian c, rataan dan variansi dihitung dari fungsi mean dan var dari kumpulan data random yang dibuat oleh fungsi rchisq
+Dapat dilihat bahwa hasil mean mendekati nilai rataan asli dan hasil variansi mendekati rataan*2
