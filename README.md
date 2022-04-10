@@ -41,7 +41,7 @@ Dapat dilihat bahwa hasil mean mendekati nilai rataan asli dan hasil variansi me
 ### Penjelasan
 Untuk bagian b, semua soal digunakan set.seed() agar nilai konsisten. Histogram dibuat dengan fungsi hist dari hasil generate nilai random dari fungsi rexp. 
 Histogram dibuat dengan 4 nilai n/perulangan yang berbeda\
-Hasil export histogram:
+Hasil export histogram:\
 ![n 10](Gambar/5_1.png)
 ![n 100](Gambar/5_2.png)
 ![n 1000](Gambar/5_3.png)
