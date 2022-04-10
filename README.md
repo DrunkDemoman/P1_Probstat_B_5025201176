@@ -51,3 +51,6 @@ Untuk bagian c, mean dan var didapat dari hasil generate nilai random dari fungs
 ### Screenshot Run
 ![Hasil Soal 6](Gambar/ssSoal6.png)
 ### Penjelasan
+Untuk bagian a, plotting dibuat dari fungsi plot dari 100 nilai random yang digenerate oleh fungsi rnorm.\
+Hasil Plot:\
+
