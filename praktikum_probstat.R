@@ -82,4 +82,11 @@ var(rexp(100,rate = 3))
 ?Normal
 #a
 set.seed(1)
-plot((rnorm(100, mean=50,sd=8))
+plot(rnorm(100, mean=50,sd=8))
+#b
+set.seed(1)
+hist(rnorm(100,mean=50, sd=8),breaks = 50)
+
+#c
+set.seed(1)
+var(rnorm(100,mean = 50,sd=8))
