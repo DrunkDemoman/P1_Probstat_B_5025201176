@@ -45,4 +45,9 @@ Hasil export histogram:\
 ![n 10](Gambar/5_1.png)
 ![n 100](Gambar/5_2.png)
 ![n 1000](Gambar/5_3.png)
-![n 10000](Gambar/5_4.png)
+![n 10000](Gambar/5_4.png)\
+Untuk bagian c, mean dan var didapat dari hasil generate nilai random dari fungsi rexp.
+## Soal 6
+### Screenshot Run
+![Hasil Soal 6](Gambar/ssSoal6.png)
+### Penjelasan
