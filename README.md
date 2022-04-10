@@ -21,3 +21,7 @@ Untuk bagian c, mean didapat dengan membuat sequence x=1 sampai 20, lalu nilai x
 ### Screenshot Run
 ![Hasil Soal 3](Gambar/ssSoal3.png)
 ### Penjelasan
+Untuk bagian a, digunakan dpois dengan parameter yang dibutuhkan\
+Untuk bagian b, nilai simulasi dibuat dengan mengambil mean dari 365 data random yang hasilnya ==6, dapat terlihat bahwa nilai simulasi mendekati nilai riil 
+Histogram dibuat dengan fungsi hist dari 365 data random yang dibuat tadi, digunakan set.seed() agar nilai konsisten\
+Untuk bagian d, rataan dan variansi diambil dari fungsi mean dan var dari 365 data random yang dibuat
