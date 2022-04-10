@@ -11,5 +11,5 @@ Untuk bagian e, rataan dan varian didapat dengan menggunakan fungsi mean dan var
 
 ## Soal 2
 ### Screenshot Run
-
+![Hasil Soal 2](Gambar/ssSoal2.png)
 ### Penjelasan
