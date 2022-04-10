@@ -13,3 +13,6 @@ Untuk bagian e, rataan dan varian didapat dengan menggunakan fungsi mean dan var
 ### Screenshot Run
 ![Hasil Soal 2](Gambar/ssSoal2.png)
 ### Penjelasan
+Untuk bagian a, digunakan fungsi dbinom dengan parameter yang dibutuhkan\
+Untuk bagian b, histogram dibuat dengan fungsi hist pada hasil dari rbinom sebanyak 10000 data, digunakan set.seed(1) agar nilai konsisten\
+Untuk bagian c, mean didapat dengan membuat sequence x=1 sampai 20, lalu nilai x dimasukkan kedalam fungsi dbinom, lalu diratakan dengan fungsi mean
