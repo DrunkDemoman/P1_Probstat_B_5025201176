@@ -2,4 +2,4 @@
 
 ## Soal 1
 ### Screenshot Run
-![Hasil Soal1](Gambar/SS Soal 1.png)
+![Hasil Soal1](Gambar/SS%20Soal%201.png)
